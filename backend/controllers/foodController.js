@@ -1,5 +1,5 @@
 import { log } from "console";
-import foodModel from "../models/foodModel.js"; // Ensure correct capitalization of model name
+import foodModel from "../models/foodMOdel.js"; // Ensure correct capitalization of model name
 import fs from 'fs';
 
 // add food item
